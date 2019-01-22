@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="152" height="76" viewBox="0 0 152 76">
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(0 1)">
+      <rect width="12" height="2" x="86" fill="#FFF"/>
+      <rect width="6" height="2" x="100" fill="#FFF"/>
+      <path stroke="#445472" stroke-linejoin="round" stroke-width="4" d="M0 73L140 73M142 73L152 73"/>
+    </g>
+    <rect width="20" height="56" x="17" y="18" fill="#445472" stroke="#445472" stroke-width="4"/>
+    <rect width="12" height="12" x="22" y="19" fill="#FFF" stroke="#445472" stroke-width="4"/>
+    <rect width="12" height="12" x="22" y="30" fill="#FFF" stroke="#445472" stroke-width="4"/>
+    <rect width="12" height="13" x="22" y="42" fill="#FFF" stroke="#445472" stroke-width="4"/>
+    <rect width="76" height="60" x="39" y="12" fill="#6A9BE3"/>
+    <rect width="38" height="26" x="55" y="48" fill="#FFF" stroke="#445472" stroke-width="4"/>
+    <rect width="20" height="26" x="55" y="48" fill="#FFF" stroke="#445472" stroke-width="4"/>
+    <rect width="38" height="12" x="55" y="24" fill="#FFF" stroke="#445472" stroke-width="4"/>
+    <rect width="30" height="12" x="10" y="2" fill="#6A9BE3" stroke="#445472" stroke-width="4"/>
+    <rect width="77" height="12" x="42" y="2" fill="#445472" stroke="#445472" stroke-width="4"/>
+  </g>
+</svg>

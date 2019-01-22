@@ -1,0 +1,265 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1188" height="373" viewBox="0 0 1188 373">
+  <defs>
+    <polygon id="hero_image-b" points="475.2 150.707 0 233.225 684 352 1159.2 269.482"/>
+    <filter id="hero_image-a" width="105.3%" height="130.8%" x="-2.7%" y="-14.4%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="10"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.352941176   0 0 0 0 0.564705882   0 0 0 0 0.878431373  0 0 0 0.5 0"/>
+    </filter>
+    <linearGradient id="hero_image-c" x1="22.259%" x2="89.085%" y1="-3.775%" y2="100%">
+      <stop offset="0%" stop-color="#AFCDF9"/>
+      <stop offset="100%" stop-color="#6A99DF"/>
+    </linearGradient>
+    <ellipse id="hero_image-e" cx="427.5" cy="250.5" rx="46.5" ry="6.5"/>
+    <filter id="hero_image-d" width="132.3%" height="330.8%" x="-16.1%" y="-115.4%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.352941176   0 0 0 0 0.564705882   0 0 0 0 0.878431373  0 0 0 1 0"/>
+    </filter>
+    <ellipse id="hero_image-g" cx="539" cy="176.591" rx="40" ry="5.591"/>
+    <filter id="hero_image-f" width="137.5%" height="368.3%" x="-18.8%" y="-134.1%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.352941176   0 0 0 0 0.564705882   0 0 0 0 0.878431373  0 0 0 1 0"/>
+    </filter>
+    <path id="hero_image-i" d="M603,151.792968 L715,151.792968"/>
+    <filter id="hero_image-h" width="114.3%" height="1600%" x="-7.1%" y="-550%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="shadowSpreadOuter1"/>
+      <feOffset dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feMorphology in="SourceAlpha" radius="1" result="shadowInner"/>
+      <feOffset dy="2" in="shadowInner" result="shadowInner"/>
+      <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.266666667   0 0 0 0 0.329411765   0 0 0 0 0.447058824  0 0 0 0.3 0"/>
+    </filter>
+    <path id="hero_image-k" d="M515,244.25 L940.918014,245.5"/>
+    <filter id="hero_image-j" width="103.8%" height="1380.5%" x="-1.9%" y="-480.2%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="shadowSpreadOuter1"/>
+      <feOffset dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feMorphology in="SourceAlpha" radius="1" result="shadowInner"/>
+      <feOffset dy="2" in="shadowInner" result="shadowInner"/>
+      <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.266666667   0 0 0 0 0.329411765   0 0 0 0 0.447058824  0 0 0 0.3 0"/>
+    </filter>
+    <filter id="hero_image-l" width="165.2%" height="151.8%" x="-32.6%" y="-25.9%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="10"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0.352941176   0 0 0 0 0.564705882   0 0 0 0 0.878431373  0 0 0 1 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="hero_image-m" width="174.1%" height="158.9%" x="-37.1%" y="-29.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="10"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0.352941176   0 0 0 0 0.564705882   0 0 0 0 0.878431373  0 0 0 1 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(15)">
+    <use fill="#000" filter="url(#hero_image-a)" xlink:href="#hero_image-b"/>
+    <g transform="translate(0 139)">
+      <polygon fill="#B7D4FF" points="684 206 1159.2 123.482 1159.2 119.482 684 202"/>
+      <polygon fill="#B7D4FF" points="684 206 0 87.225 0 83.225 684 202"/>
+      <polygon fill="url(#hero_image-c)" points="475.2 .707 0 83.225 684 202 1159.2 119.482"/>
+    </g>
+    <use fill="#000" fill-rule="nonzero" filter="url(#hero_image-d)" xlink:href="#hero_image-e"/>
+    <use fill="#000" fill-rule="nonzero" filter="url(#hero_image-f)" xlink:href="#hero_image-g"/>
+    <g transform="translate(128)">
+      <polygon fill="#6E9EE5" points="120 235 314 201.312 314 21.312 120 55"/>
+      <polygon fill="#82ABE8" points="194 .474 0 34.162 120 55 314 21.312"/>
+      <polygon fill="#88B4F5" points="120 234.838 0 214 0 34 120 54.838"/>
+      <g transform="translate(30 129)">
+        <polygon fill="#84A2D1" points="60 100.419 0 90 0 0 60 10.419"/>
+        <path fill="#AFCDF9" d="M58.6854281,101.233171 L0,91.0425532 L0,90.3829787 L60,84 L60,101.070373 L58.6854281,101.233171 Z"/>
+        <polygon fill="#718BB5" fill-rule="nonzero" points="0 85 60 72.416 60 84 0 90" opacity=".459"/>
+      </g>
+      <g transform="translate(61 177)">
+        <g transform="translate(0 34.71)">
+          <polygon fill="#BBC3D0" points="20.209 16.86 0 20.369 19.46 23.748 39.669 20.239"/>
+          <polygon fill="#858E9E" points="19.46 23.577 39.669 20.068 39.669 3.601 19.46 7.111" opacity=".9"/>
+          <polygon fill="#C8CFDC" points="19.46 23.577 0 20.198 0 3.731 19.46 7.111" opacity=".9"/>
+          <polygon fill="#5A90E0" points="12.022 11.18 5.95 10.28 5.95 4.463 12.022 5.455" opacity=".9"/>
+          <polygon fill="#B2BBC9" points="20.209 .222 0 3.731 19.46 7.111 39.669 3.601" opacity=".9"/>
+          <polygon fill="#5A90E0" points="18.721 2.701 5.455 4.723 12.022 6.119 25.289 4.097" opacity=".9"/>
+        </g>
+        <g transform="translate(20.33 38.182)">
+          <polygon fill="#BBC3D0" points="20.209 16.86 0 20.369 19.46 23.748 39.669 20.239"/>
+          <polygon fill="#8EA0BC" points="19.46 23.577 39.669 20.068 39.669 3.601 19.46 7.111" opacity=".9"/>
+          <polygon fill="#C8CFDC" points="19.46 23.577 0 20.198 0 3.731 19.46 7.111" opacity=".9"/>
+          <polygon fill="#5A90E0" points="12.022 11.18 5.95 10.28 5.95 4.463 12.022 5.455" opacity=".9"/>
+          <polygon fill="#B2BBC9" points="20.209 .222 0 3.731 19.46 7.111 39.669 3.601" opacity=".9"/>
+          <polygon fill="#5A90E0" points="18.721 2.701 5.455 4.723 12.022 6.119 25.289 4.097" opacity=".9"/>
+        </g>
+        <g transform="translate(0 17.355)">
+          <polygon fill="#BBC3D0" points="20.209 16.86 0 20.369 19.46 23.748 39.669 20.239"/>
+          <polygon fill="#8EA0BC" points="19.46 23.577 39.669 20.068 39.669 3.601 19.46 7.111" opacity=".9"/>
+          <polygon fill="#C8CFDC" points="19.46 23.577 0 20.198 0 3.731 19.46 7.111" opacity=".9"/>
+          <polygon fill="#5A90E0" points="12.022 11.18 5.95 10.28 5.95 4.463 12.022 5.455" opacity=".9"/>
+          <polygon fill="#B2BBC9" points="20.209 .222 0 3.731 19.46 7.111 39.669 3.601" opacity=".9"/>
+          <polygon fill="#5A90E0" points="18.721 2.701 5.455 4.723 12.022 6.119 25.289 4.097" opacity=".9"/>
+        </g>
+        <g transform="translate(20.33 20.826)">
+          <polygon fill="#BBC3D0" points="20.209 16.86 0 20.369 19.46 23.748 39.669 20.239"/>
+          <polygon fill="#8EA0BC" points="19.46 23.577 39.669 20.068 39.669 3.601 19.46 7.111" opacity=".9"/>
+          <polygon fill="#C8CFDC" points="19.46 23.577 0 20.198 0 3.731 19.46 7.111" opacity=".9"/>
+          <polygon fill="#5A90E0" points="12.022 11.18 5.95 10.28 5.95 4.463 12.022 5.455" opacity=".9"/>
+          <polygon fill="#B2BBC9" points="20.209 .222 0 3.731 19.46 7.111 39.669 3.601" opacity=".9"/>
+          <polygon fill="#5A90E0" points="18.721 2.701 5.455 4.723 12.022 6.119 25.289 4.097" opacity=".9"/>
+        </g>
+        <polygon fill="#BBC3D0" points="20.209 16.86 0 20.369 19.46 23.748 39.669 20.239"/>
+        <polygon fill="#93A1B9" points="19.46 23.577 39.669 20.068 39.669 3.601 19.46 7.111" opacity=".9"/>
+        <polygon fill="#C8CFDC" points="19.46 23.577 0 20.198 0 3.731 19.46 7.111" opacity=".9"/>
+        <polygon fill="#5A90E0" points="12.022 11.18 5.95 10.28 5.95 4.463 12.022 5.455" opacity=".9"/>
+        <polygon fill="#B2BBC9" points="20.209 .222 0 3.731 19.46 7.111 39.669 3.601" opacity=".9"/>
+        <polygon fill="#5A90E0" points="18.721 2.701 5.455 4.723 12.022 6.119 25.289 4.097" opacity=".9"/>
+      </g>
+      <polygon fill="#56698F" points="194 .474 0 34.162 120 55 314 21.312"/>
+      <polygon fill="#56698F" points="120 83 314 49.312 314 21.312 120 55"/>
+      <polygon fill="#56698F" points="120 83 0 62.162 0 34.162 120 55"/>
+      <polygon fill="#50607E" points="120 83 314 49.312 314 21.312 120 55"/>
+      <polygon fill="#5D719B" points="120 83 0 62.162 0 34.162 120 55"/>
+      <g transform="translate(0 58)">
+        <polygon fill="#50607E" points="120 44.688 314 11 314 0 120 33.688"/>
+        <polygon fill="#5D719B" points="120 44.838 0 24 0 13 120 33.838"/>
+      </g>
+    </g>
+    <g fill-rule="nonzero" transform="translate(362 183)">
+      <circle cx="8.913" cy="8.913" r="8.913" fill="#445472" transform="translate(70 47)"/>
+      <circle cx="8.913" cy="8.913" r="8.913" fill="#445472" transform="translate(9 47)"/>
+      <g transform="translate(2.766)">
+        <rect width="84.208" height="51.631" fill="#445472"/>
+        <rect width="19.054" height="51.631" fill="#4B5D7F"/>
+        <g fill="#7C8394">
+          <rect width="19.054" height="1" y="51.631"/>
+          <rect width="19.054" height="1" y="47.329"/>
+          <rect width="19.054" height="1" y="43.026"/>
+          <rect width="19.054" height="1" y="38.723"/>
+          <rect width="19.054" height="1" y="34.421"/>
+          <rect width="19.054" height="1" y="30.118"/>
+          <rect width="19.054" height="1" y="25.816"/>
+          <rect width="19.054" height="1" y="21.513"/>
+          <rect width="19.054" height="1" y="17.21"/>
+          <rect width="19.054" height="1" y="12.908"/>
+          <rect width="19.054" height="1" y="8.605"/>
+          <rect width="19.054" height="1" y="4.303"/>
+          <rect width="19.054" height="1"/>
+        </g>
+      </g>
+      <g transform="translate(.615 7.376)">
+        <rect width="128.463" height="3.688" y="43.255" fill="#E4AE40" rx="1.844"/>
+        <path fill="#FFD072" d="M117.141143,22.1427379 C124.894171,24.5351582 128.770686,27.6034182 128.770686,31.3475177 C128.770686,35.7052298 128.770686,40.0078303 128.770686,44.2553191 L86.3593381,44.2553191 L86.3593381,40.2244633 L86.3593381,0 L107.376291,-8.8817842e-16 C109.132492,-1.21078729e-15 110.683284,1.14552272 111.199552,2.8241261 L117.141143,22.1427379 Z"/>
+        <path fill="#F7F9FA" d="M103.267139,6.76122931 L105.412327,6.76122931 C107.163604,6.76122931 108.711253,7.90044938 109.231648,9.57262228 L111.882207,18.0895966 C112.538656,20.1989494 111.360846,22.4410752 109.251493,23.0975247 C108.876378,23.2142639 108.486111,23.2751049 108.093262,23.2780883 L103.297516,23.3145085 C101.08844,23.3312848 99.2840311,21.5540754 99.2672548,19.3450001 C99.2671779,19.3348748 99.2671395,19.3247494 99.2671395,19.3146239 L99.2671395,10.7612293 C99.2671395,8.55209032 101.058,6.76122931 103.267139,6.76122931 Z"/>
+        <path fill="#CEE1FC" d="M108.391384,8.09165607 L100.909603,22.5463473 C99.9223137,21.8249307 99.277254,20.661676 99.2672548,19.3450001 C99.2671779,19.3348748 99.2671395,19.3247494 99.2671395,19.3146239 L99.2671395,10.7612293 C99.2671395,8.55209032 101.058,6.76122931 103.267139,6.76122931 L105.412327,6.76122931 C106.575682,6.76122931 107.64918,7.26394488 108.391384,8.09165607 Z"/>
+      </g>
+      <g transform="translate(117.707 39.338)">
+        <rect width="12.293" height="1.229" fill="#393E46" opacity=".2" rx=".615"/>
+        <rect width="12.293" height="1.229" y="2.459" fill="#393E46" opacity=".2" rx=".615"/>
+        <rect width="12.293" height="1.229" y="4.917" fill="#393E46" opacity=".2" rx=".615"/>
+        <rect width="6.761" height="2.459" x="4.917" y="7.376" fill="#F7F9FA" opacity=".6"/>
+      </g>
+      <g transform="translate(33 47)">
+        <circle cx="8.913" cy="8.913" r="8.913" fill="#445472"/>
+        <circle cx="8.605" cy="9.22" r="4.303" fill="#7C8394"/>
+      </g>
+      <g transform="translate(94 47)">
+        <circle cx="8.913" cy="8.913" r="8.913" fill="#445472"/>
+        <circle cx="8.605" cy="9.22" r="4.303" fill="#7C8394"/>
+      </g>
+    </g>
+    <g fill-rule="nonzero" transform="matrix(-1 0 0 1 581 130.793)">
+      <circle cx="6.17" cy="6.17" r="6.17" fill="#445472" transform="translate(48.298 32.766)"/>
+      <circle cx="6.17" cy="6.17" r="6.17" fill="#445472" transform="translate(6.17 32.766)"/>
+      <g transform="translate(1.915)">
+        <rect width="58.298" height="35.745" fill="#445472"/>
+        <rect width="13.191" height="35.745" fill="#4B5D7F"/>
+        <g fill="#7C8394">
+          <rect width="13.191" height="1" y="35.745"/>
+          <rect width="13.191" height="1" y="32.766"/>
+          <rect width="13.191" height="1" y="29.787"/>
+          <rect width="13.191" height="1" y="26.809"/>
+          <rect width="13.191" height="1" y="23.83"/>
+          <rect width="13.191" height="1" y="20.851"/>
+          <rect width="13.191" height="1" y="17.872"/>
+          <rect width="13.191" height="1" y="14.894"/>
+          <rect width="13.191" height="1" y="11.915"/>
+          <rect width="13.191" height="1" y="8.936"/>
+          <rect width="13.191" height="1" y="5.957"/>
+          <rect width="13.191" height="1" y="2.979"/>
+          <rect width="13.191" height="1"/>
+        </g>
+      </g>
+      <g transform="translate(.426 5.106)">
+        <rect width="88.936" height="2.553" y="29.946" fill="#E4AE40" rx="1.277"/>
+        <path fill="#FFD072" d="M81.0977143,15.3295878 C86.4651956,16.9858788 89.1489362,19.1100587 89.1489362,21.7021277 C89.1489362,24.7190053 89.1489362,27.6977287 89.1489362,30.6382979 L59.787234,30.6382979 L59.787234,26.6074421 L59.787234,0 L73.4283005,8.8817842e-16 C75.1845014,5.65569547e-16 76.7352933,1.14552272 77.251561,2.8241261 L81.0977143,15.3295878 Z"/>
+        <path fill="#F7F9FA" d="M71.8697965,4.68085106 L72.0717985,4.68085106 C73.8230761,4.68085106 75.3707243,5.82007113 75.8911195,7.49224403 L77.1035554,11.3881337 C77.7028184,13.3137303 76.6276126,15.3605333 74.702016,15.9597962 C74.3595791,16.0663657 74.0033105,16.1219065 73.6446845,16.12463 L72.7537805,16.1313958 C70.5447052,16.1481721 68.7402959,14.3709627 68.7235196,12.1618874 C68.7234427,12.1517621 68.7234043,12.1416367 68.7234043,12.1315112 L68.7234043,7.82724333 C68.7234043,6.08953886 70.1320921,4.68085106 71.8697965,4.68085106 Z"/>
+        <path fill="#CEE1FC" d="M74.9070593,5.85912049 L70.0982698,15.149631 C69.2635558,14.4230519 68.7325843,13.3555121 68.7235196,12.1618874 C68.7234427,12.1517621 68.7234043,12.1416367 68.7234043,12.1315112 L68.7234043,7.82724333 C68.7234043,6.08953886 70.1320921,4.68085106 71.8697965,4.68085106 L72.0717985,4.68085106 C73.1620429,4.68085106 74.1733688,5.12236593 74.9070593,5.85912049 Z"/>
+      </g>
+      <g transform="translate(81.49 27.234)">
+        <rect width="8.511" height="1" fill="#393E46" opacity=".2" rx=".5"/>
+        <rect width="8.511" height="1" y="1.702" fill="#393E46" opacity=".2" rx=".5"/>
+        <rect width="8.511" height="1" y="3.404" fill="#393E46" opacity=".2" rx=".5"/>
+        <rect width="4.681" height="1.702" x="3.404" y="5.106" fill="#F7F9FA" opacity=".6"/>
+      </g>
+      <g transform="translate(22.766 32.766)">
+        <circle cx="6.17" cy="6.17" r="6.17" fill="#445472"/>
+        <circle cx="5.957" cy="6.383" r="2.979" fill="#7C8394"/>
+      </g>
+      <g transform="translate(64.894 32.766)">
+        <circle cx="6.17" cy="6.17" r="6.17" fill="#445472"/>
+        <circle cx="5.957" cy="6.383" r="2.979" fill="#7C8394"/>
+      </g>
+    </g>
+    <g fill-rule="nonzero" stroke-dasharray="8 6" stroke-linejoin="round">
+      <use fill="#000" filter="url(#hero_image-h)" xlink:href="#hero_image-i"/>
+      <use stroke="#5A90E0" stroke-width="2" xlink:href="#hero_image-i"/>
+    </g>
+    <g fill-rule="nonzero" stroke-dasharray="8 6" stroke-linejoin="round">
+      <use fill="#000" filter="url(#hero_image-j)" xlink:href="#hero_image-k"/>
+      <use stroke="#5A90E0" stroke-width="2" xlink:href="#hero_image-k"/>
+    </g>
+    <g transform="translate(896 48)">
+      <polygon fill="#FFF" points="0 7.36 131.26 0 131.26 165.596 0 158.236" filter="url(#hero_image-l)" opacity=".1" transform="translate(26.282)"/>
+      <g transform="translate(0 11)">
+        <g opacity=".7" transform="translate(12.654 .285)">
+          <polygon fill="#EBEEF5" points="131.26 0 132.595 0 132.595 165.596 131.26 165.596"/>
+          <polygon fill="#FFF" points="0 7.36 131.26 0 131.26 165.596 0 158.236"/>
+        </g>
+        <polygon fill="#EBEEF5" points="131.26 11 132.595 11 132.595 176.596 131.26 176.596"/>
+        <polygon fill="#FFF" points="0 18.36 131.26 11 131.26 176.596 0 169.236"/>
+      </g>
+      <g fill="#E2F2F8" fill-rule="nonzero" transform="translate(27 59)">
+        <rect width="77.873" height="19.482"/>
+        <rect width="15.575" height="63.316" x="62.299" y="28.249"/>
+        <rect width="77.873" height="4.87" y="21.43"/>
+        <rect width="60.352" height="47.731" y="28.249"/>
+        <rect width="36.016" height="13.637" y="77.927"/>
+        <rect width="22.389" height="13.637" x="37.963" y="77.927"/>
+      </g>
+    </g>
+    <g transform="translate(739 50)">
+      <polygon fill="#FFF" points="0 6.48 115.575 0 115.575 145.808 0 139.327" filter="url(#hero_image-m)" opacity=".1" transform="translate(23.142)"/>
+      <g transform="translate(0 9.686)">
+        <g opacity=".7" transform="translate(11.142 .25)">
+          <polygon fill="#EBEEF5" points="115.575 0 116.75 0 116.75 145.808 115.575 145.808"/>
+          <polygon fill="#FFF" points="0 6.48 115.575 0 115.575 145.808 0 139.327"/>
+        </g>
+        <polygon fill="#EBEEF5" points="115.575 9.686 116.75 9.686 116.75 155.493 115.575 155.493"/>
+        <polygon fill="#FFF" points="0 16.166 115.575 9.686 115.575 155.493 0 149.013"/>
+      </g>
+      <g fill="#E2F2F8" fill-rule="nonzero" transform="translate(23.774 51.95)">
+        <rect width="68.568" height="17.154"/>
+        <rect width="13.714" height="55.75" x="54.854" y="24.873"/>
+        <rect width="68.568" height="4.288" y="18.869"/>
+        <rect width="53.14" height="42.027" y="24.873"/>
+        <rect width="31.713" height="12.008" y="68.615"/>
+        <rect width="19.713" height="12.008" x="33.427" y="68.615"/>
+      </g>
+    </g>
+  </g>
+</svg>

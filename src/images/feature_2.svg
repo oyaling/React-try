@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="43" viewBox="0 0 48 43">
+  <defs>
+    <radialGradient id="feature_2-a" cx="14.976%" cy="32.657%" r="171.482%" fx="14.976%" fy="32.657%" gradientTransform="matrix(.69578 .65186 -.59808 .75834 .24 -.018)">
+      <stop offset="0%" stop-color="#5A90E0"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(-4 -7)">
+    <polygon points="0 0 56 0 56 56 0 56"/>
+    <path fill="url(#feature_2-a)" fill-rule="nonzero" d="M28,49.8166667 L24.6166667,46.7366667 C12.6,35.84 4.66666667,28.6533333 4.66666667,19.8333333 C4.66666667,12.6466667 10.3133333,7 17.5,7 C21.56,7 25.4566667,8.89 28,11.8766667 C30.5433333,8.89 34.44,7 38.5,7 C45.6866667,7 51.3333333,12.6466667 51.3333333,19.8333333 C51.3333333,28.6533333 43.4,35.84 31.3833333,46.76 L28,49.8166667 Z"/>
+  </g>
+</svg>
