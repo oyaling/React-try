@@ -7,6 +7,7 @@ const IndexPage = () => (
       <div className="hero_group">
         <h1>嶄新的庫存管理系統</h1>
         <p>Smart Inventory Management</p>
+        <p className="title">Smart Inventory Management</p>
         <div className="apply">
         </div>
       </div>
