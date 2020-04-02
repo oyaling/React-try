@@ -5,7 +5,7 @@ const IndexPage = () => (
   <div>
     <div className="hero">
       <div className="hero_group">
-        <h1>嶄新的庫存管理系統</h1>
+        <h1>嶄新的庫存管理系統123</h1>
         <p>Smart Inventory Management</p>
         <div className="apply">
         </div>
