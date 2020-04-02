@@ -23,7 +23,7 @@ a {
 .hero h1 {
   margin: 0;
   color: #445472;
-  font-size: 48px;
+  font-size: 52px;
   line-height: 1.2;
   padding-bottom: 12px;
 
@@ -36,6 +36,10 @@ a {
   font-weight: 500;
   line-height: 1.2;
   padding-bottom: 56px;
+}
+
+.hero p.title {
+  font-size: 12px;
 }
 
 .hero_group > .apply {
